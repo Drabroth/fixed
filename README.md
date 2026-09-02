@@ -1,6 +1,11 @@
-here are the mods that i fixed for my self and others.
+# Fixed Mods
 
-[!IMPORTANT]
-**<b>You need only replace the files that is in de folder name of the mod</b>**
+Here are the mods that I fixed for myself and others.
 
-The AutoLootBody requires the _XYZApi. <span style="color:red"> [!IMPORTANT]**<b>If the creator of the mod have a new version, download that version</b>**
+> [!IMPORTANT]
+> **You only need to replace the files included in the folder with the name of the mod.**
+
+The **AutoLootBody** mod requires **_XYZApi**.
+
+> [!WARNING]
+> **If the original creator of a mod releases a new version, download and use that version instead.**
