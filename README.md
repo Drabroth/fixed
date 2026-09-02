@@ -1,1 +1,1 @@
-here are the mods that i fixed for my sekf and others
+here are the mods that i fixed for my self and others
