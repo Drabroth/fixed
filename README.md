@@ -1,6 +1,6 @@
 # Fixed Mods
 
-Here are the mods that I fixed for myself and others.
+Here are the mods that I fixed for myself and for others.
 
 > [!IMPORTANT]
 > **You only need to replace the files included in the folder with the name of the mod.**
