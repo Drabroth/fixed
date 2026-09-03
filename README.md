@@ -3,7 +3,7 @@
 Here are the mods that I fixed for myself and for others.
 
 > [!WARNING]
-> <big><b>If the original creator of a mod releases a new version, download and use that version instead.</b></big>
+> <big><big><b>If the original creator of a mod releases a new version, download and use that version instead.</b></big></big>
 
 
 > [!IMPORTANT]
